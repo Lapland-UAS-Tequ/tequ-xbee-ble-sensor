@@ -44,8 +44,11 @@ git clone https://github.com/Lapland-UAS-Tequ/tequ-xbee-ble-sensor
 ```
 
 sleep_time = time between wake ups 
+
 wd_timeout = time after watchdog resets, if it has not been kicked
+
 user_led_id = ID of LED that blinks when app is running
+
 
 ## Receiving data
 
