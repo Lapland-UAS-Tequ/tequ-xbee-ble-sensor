@@ -1,0 +1,6 @@
+{
+  "sleep_time": 30000,
+  "wd_timeout": 30000,
+  "user_led_id": "D9",
+  "version": "Tequ - BLE Sensor [2021-10-27]"
+}
