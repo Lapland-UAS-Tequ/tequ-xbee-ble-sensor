@@ -1,25 +1,25 @@
 # tequ-xbee-ble-sensor
 
-Low power XBee temperature sensor. Broadcasts data via Bluetooth low energy approximately every 30 seconds. 
-
-Settings can be configured in config.json file.
+Low power XBee temperature sensor. Broadcasts data via Bluetooth low energy approximately every 30 seconds. Between wakeups device is in deepsleep and consumes ~5-10 uA when using 3.6 VDC battery.
 
 ## Development 
 
-Install XCTU
+1. Install XCTU
 
 https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/xctu
 
-Install Pycharm
+2. Install Pycharm
 
 https://www.jetbrains.com/pycharm/
 
-Install XBee Pycharm plugin
+3. Install XBee Pycharm plugin
 
 https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/digi-xbee-pycharm-ide-plug-in
 
 
-## Settings file
+## Configuration file
+
+/lib/config.json
 
 ```
 {
