@@ -16,6 +16,14 @@ https://www.jetbrains.com/pycharm/
 
 https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/digi-xbee-pycharm-ide-plug-in
 
+4. Clone repository
+
+```
+git clone https://github.com/Lapland-UAS-Tequ/tequ-xbee-ble-sensor
+```
+
+5. Open cloned folder as Digi project in Pycharm
+
 
 ## Configuration file
 
