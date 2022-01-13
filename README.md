@@ -2,6 +2,13 @@
 
 Low power XBee temperature sensor. Broadcasts data via Bluetooth low energy approximately every 30 seconds. Between wakeups device is in deepsleep and consumes ~5-10 uA when using 3.6 VDC battery.
 
+Project has been developed and tested with: 
+
+Digi XBee 3 Zigbee 3 RF Module, model XB3-24Z8UM-J
+
+https://www.digi.com/products/models/xb3-24z8um-j
+
+
 ## Development 
 
 1. Install XCTU
