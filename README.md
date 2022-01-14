@@ -52,7 +52,7 @@ user_led_id = ID of LED that blinks when app is running
 
 ## Receiving data in Node-RED 
 
-Tested with Raspberry PI4, draws temperature data to chart. Chart can be viewed with browser http://localhost:1880/ui
+Tested with Raspberry PI4, draws temperature data to chart. Chart can be viewed with browser http://<RPI4_IP>:1880/ui
 
 ```
 sudo apt-get install libbluetooth-dev libudev-dev pi-bluetooth
