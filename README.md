@@ -74,6 +74,15 @@ npm install node-red-contrib-blebeacon-scanner
 npm install node-red-dashboard
 ```
 
+You might have to run following commmand to make BLE work:
+
+```
+sudo setcap cap_net_raw+eip $(eval readlink -f `which node`)
+```
+
+https://github.com/noble/noble#running-on-linux
+
+
 **Example flow:**
 
 ```
